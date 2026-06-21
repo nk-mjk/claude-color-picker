@@ -1,4 +1,4 @@
-![color-picker-from-sref](color-picker-from-sref_title.png)
+![color-picker-from-sref](color-picker-from-sref_title.jpg)
 
 # color-picker-from-sref
 
